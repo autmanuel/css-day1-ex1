@@ -1,0 +1,26 @@
+
+.container {
+   
+    p {color:red} 
+    margin: 5px;
+    h1{color: blue;}
+
+    .right {
+        img{
+             height: 300px;
+             width: 300px;
+            }
+            p {display: none;}
+        }
+        
+
+    
+    #third { 
+        span {visibility: hidden;}
+
+    }
+}
+    
+    
+        
+    
